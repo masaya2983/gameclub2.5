@@ -1,0 +1,2 @@
+module Adomin::GamesHelper
+end
